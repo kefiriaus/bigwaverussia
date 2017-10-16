@@ -1408,7 +1408,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
 .cid-qyackpmJn4 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1799,8 +1799,8 @@ body {
   color: #0f7699;
 }
 .cid-qyajPlZt5N {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/b57a1175-2000x1090.jpg");
 }
 .cid-qyajPlZt5N .mbr-section-subtitle {
